@@ -23,5 +23,9 @@ namespace WpfApp17
         {
             InitializeComponent();
         }
+        private void Cli(object sender, EventArgs e)
+        {
+            MessageBox.Show("DDDD");
+        }
     }
 }
